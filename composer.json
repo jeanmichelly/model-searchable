@@ -1,0 +1,11 @@
+{
+    "name": "jmly/model-searchable",
+    "description": "Scopes Laravel",
+    "authors": [
+        {
+            "name": "jeanmichelly",
+            "email": "jeanmichely@gmail.com"
+        }
+    ],
+    "require": {}
+}
